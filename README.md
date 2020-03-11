@@ -41,8 +41,7 @@ Things to note:
 
 ## Deliverable
 
-- Download the datasets
-- Implement your solution as a script in python (Ipython notebooks are accepted)
+- Implement your solution as a script in python (Ipython notebooks are preferred)
 - Define a new aggregated field in the dataset for your definition of product demand. 
 - Create a 5 min presentation with your choice of graphs and content that tell a succinct story of the current state and your solution. 
 - Email the point of contact that sent you this exercise. 
@@ -53,10 +52,10 @@ Things to note:
 ## Evaluation
 Your submission will be evaluated along the following criteria by the Reviewer
 - Completeness - Does your submission meet the Deliverables specified above?
-- Business Acumen - how easy was it for a business stakeholder (with limited technical knowledge) to understand your solution
-- Storylining - evaluate the flow of your presentation 
-- Creativity - evaluate your ability to tease out non-obvious insights from the data 
-- Technical Capability - how statistically reliable are your insights 
+- Business Acumen - How easy was it for a business stakeholder (with limited technical knowledge) to understand your solution?
+- Storylining - Evaluate the flow of your presentation 
+- Creativity - Evaluate your ability to tease out non-obvious insights from the data 
+- Technical Capability - How statistically reliable are your insights?
 - Critical Thinking - Please be ready to speak to your thinking proccess for the solution here. 
 
 ### Notes:  
