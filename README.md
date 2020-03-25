@@ -9,7 +9,8 @@ The dataset you are given consists of 9 weeks of sales transactions in Mexico. E
 
 Our stakeholders aren't well equipped with analytical capabilities within their organization, they are relying on us to help them assess their current proccesses and identify bottlenecks. 
 
-In addition to presenting/identifyng Bread Inc.'s current product demand and network bottlenecks, you, as a STORD consultant are also responsible for recommending changes to their supply chain network. 
+We're asking you to dig into their data come up with valuable statistical insights and trends. Get creative and identify bottlenecks in their current supply chain networks. Additionally, structure your deliverable in a succinct and well storylined manner to ensure an easy to understand and engaging flow. 
+<!--- In addition to presenting/identifyng Bread Inc.'s current product demand and network bottlenecks, you, as a STORD consultant are also responsible for recommending changes to their supply chain network.--->
 
 ## The Data
 
@@ -43,23 +44,22 @@ Things to note:
 
 - Implement your solution as a script in python (Ipython notebooks are preferred)
 - Define a new aggregated field in the dataset for your definition of product demand. 
-- Create a 5 min presentation with your choice of graphs and content that tell a succinct story of the current state and your solution. 
+- Create a 5 min presentation with your choice of graphs and content that tell a succinct story (optional)
 - Email the point of contact that sent you this exercise. 
-  * Include your Ipython notebook and 
-  * Your presentation. 
+  * Include your Ipython notebook with all relevant statistical graphs
+  * Make sure to label all graphs and add comments where needed
 - Be prepared to walk through your solution during the on-site interview. 
 
 ## Evaluation
 Your submission will be evaluated along the following criteria by the Reviewer
 - Completeness - Does your submission meet the Deliverables specified above?
 - Business Acumen - How easy was it for a business stakeholder (with limited technical knowledge) to understand your solution?
-- Storylining - Evaluate the flow of your presentation 
+- Storylining - Evaluate the flow of your solution
 - Creativity - Evaluate your ability to tease out non-obvious insights from the data 
 - Technical Capability - How statistically reliable are your insights?
 - Critical Thinking - Please be ready to speak to your thinking proccess for the solution here. 
 
-### Notes:  
-- The hope is that this exercise will take a qualified candidate 4-6 hours.  Please let us know how much time you spent so that we can iterate based on your feedback.  
+### Notes:   
 - The good news is that we will not subject you to a code exercise on a whiteboard when you are on-site!
 - Please feel free to ask clarifying questions via email!  
 - Thank you for the time you are spending as a candidate with STORD!
